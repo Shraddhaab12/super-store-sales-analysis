@@ -61,7 +61,7 @@ The dataset includes the following columns:
 
 #### Conclusion
 This SuperStore Sales Analysis provided valuable insights into sales trends, profitability, and regional performance. Key findings include:
-- Technology and Office Supplies are the most profitable categories.
-- California, New York, and Texas contribute the highest sales and profits.
-- Sales and profit show seasonal fluctuations, highlighting peak demand periods.
-- The 20-day forecast predicts a steady increase in sales, emphasizing the need for inventory planning.
+   - Technology and Office Supplies are the most profitable categories.
+   - California, New York, and Texas contribute the highest sales and profits.
+   - Sales and profit show seasonal fluctuations, highlighting peak demand periods.
+   - The 20-day forecast predicts a steady increase in sales, emphasizing the need for inventory planning.
