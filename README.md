@@ -65,3 +65,10 @@ This SuperStore Sales Analysis provided valuable insights into sales trends, pro
    - California, New York, and Texas contribute the highest sales and profits.
    - Sales and profit show seasonal fluctuations, highlighting peak demand periods.
    - The 20-day forecast predicts a steady increase in sales, emphasizing the need for inventory planning.
+
+#### SuperStore Sales Dashboard
+![SuperStore Dashboard](salesdash.png)
+
+#### SuperStore Sales 20 Days Forecast
+![Sales Forecast](forecast.png)
+
