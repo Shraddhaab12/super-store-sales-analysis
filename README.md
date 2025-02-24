@@ -67,7 +67,7 @@ This SuperStore Sales Analysis provided valuable insights into sales trends, pro
    - The 20-day forecast predicts a steady increase in sales, emphasizing the need for inventory planning.
 
 #### SuperStore Sales Dashboard
-![SuperStore Dashboard](salesdash.png)
+![SuperStore Dashboard]([salesdash.png](https://github.com/Shraddhaab12/super-store-sales-analysis/blob/main/salesdash.png))
 
 #### SuperStore Sales 20 Days Forecast
 ![Sales Forecast](forecast.png)
